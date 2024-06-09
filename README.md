@@ -6,11 +6,11 @@ NoteWorthy is a sleek and intuitive note-taking application built with the power
 
 ## Table of Contents
 
-- 📒 [Features](#features)
-- ⚙️ [Technologies](#tech)
-- 🧑🏾‍💻 [Getting Started](#get-start)
-- 👥 [Contributing](#contrib)
-- 📑 [License](#license)
+- 📚 [Features](#features)
+- ⚛️ [Technologies](#tech)
+- 🏁 [Getting Started](#get-start)
+- 🤝🏾 [Contributing](#contrib)
+- 📄 [License](#license)
 
 <br>
 
